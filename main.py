@@ -1,4 +1,3 @@
 import feladatok
 
-print(feladatok.egyedi_betuk("sikerült"))
-
+print(feladatok.egyedi_betuk("Helo, Világ!"))
